@@ -10,5 +10,6 @@ public class Constante
     public Position calculateDirection(Position position, float angle, float speed)
     {
         return new Position();
+        ///
     }
 }
